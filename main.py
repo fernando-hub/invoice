@@ -2,7 +2,6 @@ from ast import parse
 from http.client import SWITCHING_PROTOCOLS
 import os
 import configparser
-from configController import *
 from utils.parse import *
 import time
 

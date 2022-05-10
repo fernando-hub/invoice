@@ -1,0 +1,3 @@
+#IT IS NECESARY TO INSTALL OPENPYXL TO EXPORT EXCEL
+
+pip install openpyxl 
