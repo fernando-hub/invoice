@@ -1,0 +1,70 @@
+Report data is only for operating units per Responsibility and Preferences.
+
+                                                                                                                                               Report Date:         2022/03/14 08:21
+
+
+QSL USD GAAP
+
+                                                                             Aging - 7 Buckets Report
+
+Order By                     :                  Customer
+Reporting Level              :                  Ledger
+Reporting Context            :                  QSL USD GAAP
+Balancing Segment            :                                                                  To
+As of GL Date                :                  14-MAR-22
+Summary Type                 :                  Detailed
+Report Format                :                  Invoice Summary
+Bucket Name                  :                  Creditek Aging
+Show Open Credits            :                  Age
+Show Receipts At Risk        :                  Do Not Show
+Entered Currency             :
+Customer Name                :                                                                  To
+Customer Number              :                                                                  To
+Balance Due                  :                                                                  To
+Transaction Type             :                                                                  To
+
+
+
+
+ QSL USD GAAP                                                                Aging  - 7 Buckets Report                                         Report Date:         2022/03/14 08:21
+                                                                                  As of   14-MAR-22                                                   Page:                        1
+
+
+
+
+
+              Reporting Level:   Ledger
+             Reporting Entity:   QSL USD GAAP
+            Balancing Segment:   125
+
+
+
+Invoice                                         Outstanding                        Due 1 to 5       Due 6 to 15     Due 16 to 30     Due 31 to 60      Due 61 to 90          Due 90+
+Number         Type            Due Date              Amount      Current Due
+----------     -----------     ---------    --------------- ---------------- ---------------- ----------------- ---------------- ---------------- ----------------- ----------------
+Oberbrunner Ltd          23-1578046                       Blacksburg                                       VA
+
+3111512346     VER INV         28-MAR-22         14,757.65        14,757.65
+3111517739     VER INV         27-APR-22         61,710.00        61,710.00
+3111518970     VER INV         02-MAY-22         30,747.03        30,747.03
+3111525980     VER INV         19-MAY-22          9,340.00         9,340.00
+3111526699     VER INV         22-MAY-22         17,197.69        17,197.69
+3111526997     VER INV         22-MAY-22         26,993.65        26,993.65
+3111528002     VER INV         24-MAY-22         17,766.23        17,766.23
+3111530011     VER INV         30-MAY-22         24,824.00        24,824.00
+                                            --------------- ---------------- ---------------- ----------------- ---------------- ---------------- ----------------- ----------------
+                Total:                          203,336.25       203,336.25             0.00              0.00             0.00             0.00              0.00             0.00
+                                                                     100.00%            0.00%             0.00%            0.00%            0.00%             0.00%            0.00%
+
+                   Customer Type Total:                      203,336.25
+
+Hamill, Stroman and Kling                  30-8505149                       Carlsbad                                         CA      I. Email
+
+3111528533     VER INV         26-MAR-22         29,631.25        29,631.25
+3111510163          VER CM          30-DEC-21         1,258.13                                                                                              1,258.13
+                                            --------------- ---------------- ---------------- ----------------- ---------------- ---------------- ----------------- ----------------
+                Total:                           28,373.12        29,631.25             0.00              0.00             0.00             0.00         1,258.13            0.00
+                                                                     104.43%            0.00%             0.00%            0.00%            0.00%            -4.43%            0.00%
+
+                   Customer Type Total:                       28,373.12
+
